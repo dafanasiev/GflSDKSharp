@@ -1,0 +1,6 @@
+GflSDK/bin/
+GflSDK/obj/
+GflSDK/GflSDK.csproj.user
+TestApp/bin/
+TestApp/obj/
+*.suo
